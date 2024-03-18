@@ -1,0 +1,23 @@
+﻿th {
+    background: antiquewhite
+}
+
+td:hover {
+    background-color: yellow;
+}
+
+.player-1-bg {
+    background: coral
+}
+
+.player-2-bg {
+    background: greenyellow
+}
+
+.default-bg {
+    background: blueviolet
+}
+
+.blank-table-cell {
+    background: none
+}
